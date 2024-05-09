@@ -1,0 +1,5 @@
+para gerar o executar do python
+usar o comando
+cxfreeze seu_script.py --target-dir dist
+
+vai abrir um dialogo para escolher a pasta
